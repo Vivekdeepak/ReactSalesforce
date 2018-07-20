@@ -1,0 +1,38 @@
+dependencies: \
+  /Users/AVI/Desktop/MobileApp/ReactL/mobile_sdk/SalesforceMobileSDK-iOS/libs/SalesforceSDKCore/SalesforceSDKCore/Classes/OAuth/SFOAuthCoordinator.m \
+  /Users/AVI/Desktop/MobileApp/ReactL/ios/Pods/Target\ Support\ Files/SalesforceSDKCore/SalesforceSDKCore-prefix.pch \
+  /Users/AVI/Desktop/MobileApp/ReactL/mobile_sdk/SalesforceMobileSDK-iOS/libs/SalesforceSDKCore/SalesforceSDKCore/Classes/Util/SFSDKCoreLogger.h \
+  /Users/AVI/Desktop/MobileApp/ReactL/ios/Pods/Headers/Private/SalesforceAnalytics/SFSDKLogger.h \
+  /Users/AVI/Desktop/MobileApp/ReactL/ios/Pods/Headers/Private/CocoaLumberjack/DDLog.h \
+  /Users/AVI/Desktop/MobileApp/ReactL/ios/Pods/Headers/Private/CocoaLumberjack/DDLegacyMacros.h \
+  /Users/AVI/Desktop/MobileApp/ReactL/ios/Pods/Headers/Private/SalesforceAnalytics/SFSDKFileLogger.h \
+  /Users/AVI/Desktop/MobileApp/ReactL/ios/Pods/Headers/Private/CocoaLumberjack/DDFileLogger.h \
+  /Users/AVI/Desktop/MobileApp/ReactL/mobile_sdk/SalesforceMobileSDK-iOS/libs/SalesforceSDKCore/SalesforceSDKCore/Classes/Common/SalesforceSDKConstants.h \
+  /Users/AVI/Desktop/MobileApp/ReactL/mobile_sdk/SalesforceMobileSDK-iOS/libs/SalesforceSDKCore/SalesforceSDKCore/Classes/OAuth/SFOAuthCredentials+Internal.h \
+  /Users/AVI/Desktop/MobileApp/ReactL/mobile_sdk/SalesforceMobileSDK-iOS/libs/SalesforceSDKCore/SalesforceSDKCore/Classes/OAuth/SFOAuthCredentials.h \
+  /Users/AVI/Desktop/MobileApp/ReactL/mobile_sdk/SalesforceMobileSDK-iOS/libs/SalesforceSDKCore/SalesforceSDKCore/Classes/Security/SFEncryptionKey.h \
+  /Users/AVI/Desktop/MobileApp/ReactL/mobile_sdk/SalesforceMobileSDK-iOS/libs/SalesforceSDKCore/SalesforceSDKCore/Classes/OAuth/SFOAuthCoordinator+Internal.h \
+  /Users/AVI/Desktop/MobileApp/ReactL/mobile_sdk/SalesforceMobileSDK-iOS/libs/SalesforceSDKCore/SalesforceSDKCore/Classes/OAuth/SFOAuthCoordinator.h \
+  /Users/AVI/Desktop/MobileApp/ReactL/mobile_sdk/SalesforceMobileSDK-iOS/libs/SalesforceSDKCore/SalesforceSDKCore/Classes/OAuth/SFOAuthInfo.h \
+  /Users/AVI/Desktop/MobileApp/ReactL/mobile_sdk/SalesforceMobileSDK-iOS/libs/SalesforceSDKCore/SalesforceSDKCore/Classes/Util/SFSDKAuthConfigUtil.h \
+  /Users/AVI/Desktop/MobileApp/ReactL/mobile_sdk/SalesforceMobileSDK-iOS/libs/SalesforceSDKCore/SalesforceSDKCore/Classes/OAuth/SFOAuthOrgAuthConfiguration.h \
+  /Users/AVI/Desktop/MobileApp/ReactL/mobile_sdk/SalesforceMobileSDK-iOS/libs/SalesforceSDKCore/SalesforceSDKCore/Classes/Security/SFSDKCryptoUtils.h \
+  /Users/AVI/Desktop/MobileApp/ReactL/mobile_sdk/SalesforceMobileSDK-iOS/libs/SalesforceSDKCore/SalesforceSDKCore/Classes/Common/NSData+SFSDKUtils.h \
+  /Users/AVI/Desktop/MobileApp/ReactL/mobile_sdk/SalesforceMobileSDK-iOS/libs/SalesforceSDKCore/SalesforceSDKCore/Classes/Common/NSString+SFAdditions.h \
+  /Users/AVI/Desktop/MobileApp/ReactL/mobile_sdk/SalesforceMobileSDK-iOS/libs/SalesforceSDKCore/SalesforceSDKCore/Classes/Util/SFApplicationHelper.h \
+  /Users/AVI/Desktop/MobileApp/ReactL/mobile_sdk/SalesforceMobileSDK-iOS/libs/SalesforceSDKCore/SalesforceSDKCore/Classes/Util/NSURL+SFStringUtils.h \
+  /Users/AVI/Desktop/MobileApp/ReactL/mobile_sdk/SalesforceMobileSDK-iOS/libs/SalesforceSDKCore/SalesforceSDKCore/Classes/Security/SFUserAccountManager.h \
+  /Users/AVI/Desktop/MobileApp/ReactL/mobile_sdk/SalesforceMobileSDK-iOS/libs/SalesforceSDKCore/SalesforceSDKCore/Classes/Util/SalesforceSDKCoreDefines.h \
+  /Users/AVI/Desktop/MobileApp/ReactL/mobile_sdk/SalesforceMobileSDK-iOS/libs/SalesforceSDKCore/SalesforceSDKCore/Classes/Security/SFUserAccount.h \
+  /Users/AVI/Desktop/MobileApp/ReactL/mobile_sdk/SalesforceMobileSDK-iOS/libs/SalesforceSDKCore/SalesforceSDKCore/Classes/Security/SFUserAccountConstants.h \
+  /Users/AVI/Desktop/MobileApp/ReactL/mobile_sdk/SalesforceMobileSDK-iOS/libs/SalesforceSDKCore/SalesforceSDKCore/Classes/Security/SFUserAccountIdentity.h \
+  /Users/AVI/Desktop/MobileApp/ReactL/mobile_sdk/SalesforceMobileSDK-iOS/libs/SalesforceSDKCore/SalesforceSDKCore/Classes/Login/SFSDKLoginViewControllerConfig.h \
+  /Users/AVI/Desktop/MobileApp/ReactL/mobile_sdk/SalesforceMobileSDK-iOS/libs/SalesforceSDKCore/SalesforceSDKCore/Classes/Login/LoginHost/SFSDKLoginHostStorage.h \
+  /Users/AVI/Desktop/MobileApp/ReactL/mobile_sdk/SalesforceMobileSDK-iOS/libs/SalesforceSDKCore/SalesforceSDKCore/Classes/Login/LoginHost/SFSDKLoginHost.h \
+  /Users/AVI/Desktop/MobileApp/ReactL/mobile_sdk/SalesforceMobileSDK-iOS/libs/SalesforceSDKCore/SalesforceSDKCore/Classes/Analytics/SFSDKEventBuilderHelper.h \
+  /Users/AVI/Desktop/MobileApp/ReactL/mobile_sdk/SalesforceMobileSDK-iOS/libs/SalesforceSDKCore/SalesforceSDKCore/Classes/Common/SFSDKAppFeatureMarkers.h \
+  /Users/AVI/Desktop/MobileApp/ReactL/mobile_sdk/SalesforceMobileSDK-iOS/libs/SalesforceSDKCore/SalesforceSDKCore/Classes/Common/SalesforceSDKManager.h \
+  /Users/AVI/Desktop/MobileApp/ReactL/mobile_sdk/SalesforceMobileSDK-iOS/libs/SalesforceSDKCore/SalesforceSDKCore/Classes/Common/SFSDKWebViewStateManager.h \
+  /Users/AVI/Desktop/MobileApp/ReactL/mobile_sdk/SalesforceMobileSDK-iOS/libs/SalesforceSDKCore/SalesforceSDKCore/Classes/RestAPI/SFNetwork.h \
+  /Users/AVI/Desktop/MobileApp/ReactL/mobile_sdk/SalesforceMobileSDK-iOS/libs/SalesforceSDKCore/SalesforceSDKCore/Classes/Common/NSURL+SFAdditions.h \
+  /Users/AVI/Desktop/MobileApp/ReactL/ios/Pods/Headers/Private/SalesforceAnalytics/NSUserDefaults+SFAdditions.h

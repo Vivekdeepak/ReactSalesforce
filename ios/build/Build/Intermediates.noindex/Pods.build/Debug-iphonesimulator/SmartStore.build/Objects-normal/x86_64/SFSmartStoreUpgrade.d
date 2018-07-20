@@ -1,0 +1,37 @@
+dependencies: \
+  /Users/AVI/Desktop/MobileApp/ReactL/mobile_sdk/SalesforceMobileSDK-iOS/libs/SmartStore/SmartStore/Classes/SFSmartStoreUpgrade.m \
+  /Users/AVI/Desktop/MobileApp/ReactL/ios/Pods/Target\ Support\ Files/SmartStore/SmartStore-prefix.pch \
+  /Users/AVI/Desktop/MobileApp/ReactL/mobile_sdk/SalesforceMobileSDK-iOS/libs/SmartStore/SmartStore/Classes/SFSDKSmartStoreLogger.h \
+  /Users/AVI/Desktop/MobileApp/ReactL/ios/Pods/Headers/Private/SalesforceAnalytics/SFSDKLogger.h \
+  /Users/AVI/Desktop/MobileApp/ReactL/ios/Pods/Headers/Private/CocoaLumberjack/DDLog.h \
+  /Users/AVI/Desktop/MobileApp/ReactL/ios/Pods/Headers/Private/CocoaLumberjack/DDLegacyMacros.h \
+  /Users/AVI/Desktop/MobileApp/ReactL/ios/Pods/Headers/Private/SalesforceAnalytics/SFSDKFileLogger.h \
+  /Users/AVI/Desktop/MobileApp/ReactL/ios/Pods/Headers/Private/CocoaLumberjack/DDFileLogger.h \
+  /Users/AVI/Desktop/MobileApp/ReactL/ios/Pods/Headers/Private/SalesforceSDKCore/SalesforceSDKConstants.h \
+  /Users/AVI/Desktop/MobileApp/ReactL/mobile_sdk/SalesforceMobileSDK-iOS/libs/SmartStore/SmartStore/Classes/SFSmartStoreUpgrade+Internal.h \
+  /Users/AVI/Desktop/MobileApp/ReactL/mobile_sdk/SalesforceMobileSDK-iOS/libs/SmartStore/SmartStore/Classes/SFSmartStoreUpgrade.h \
+  /Users/AVI/Desktop/MobileApp/ReactL/ios/Pods/Headers/Private/SalesforceSDKCore/SFUserAccount.h \
+  /Users/AVI/Desktop/MobileApp/ReactL/ios/Pods/Headers/Private/SalesforceSDKCore/SFUserAccountConstants.h \
+  /Users/AVI/Desktop/MobileApp/ReactL/mobile_sdk/SalesforceMobileSDK-iOS/libs/SmartStore/SmartStore/Classes/SFSmartStore+Internal.h \
+  /Users/AVI/Desktop/MobileApp/ReactL/mobile_sdk/SalesforceMobileSDK-iOS/libs/SmartStore/SmartStore/Classes/SFSmartStore.h \
+  /Users/AVI/Desktop/MobileApp/ReactL/mobile_sdk/SalesforceMobileSDK-iOS/libs/SmartStore/SmartStore/Classes/SFSmartStoreDatabaseManager.h \
+  /Users/AVI/Desktop/MobileApp/ReactL/ios/Pods/Headers/Private/SalesforceSDKCore/SFAuthenticationManager.h \
+  /Users/AVI/Desktop/MobileApp/ReactL/ios/Pods/Headers/Private/SalesforceSDKCore/SFOAuthCoordinator.h \
+  /Users/AVI/Desktop/MobileApp/ReactL/ios/Pods/Headers/Private/SalesforceSDKCore/SFOAuthCredentials.h \
+  /Users/AVI/Desktop/MobileApp/ReactL/ios/Pods/Headers/Private/SalesforceSDKCore/SFOAuthInfo.h \
+  /Users/AVI/Desktop/MobileApp/ReactL/ios/Pods/Headers/Private/SalesforceSDKCore/SFUserAccountManager.h \
+  /Users/AVI/Desktop/MobileApp/ReactL/ios/Pods/Headers/Private/SalesforceSDKCore/SalesforceSDKCoreDefines.h \
+  /Users/AVI/Desktop/MobileApp/ReactL/ios/Pods/Headers/Private/SalesforceSDKCore/SFUserAccountIdentity.h \
+  /Users/AVI/Desktop/MobileApp/ReactL/ios/Pods/Headers/Private/SalesforceSDKCore/SFSDKLoginViewControllerConfig.h \
+  /Users/AVI/Desktop/MobileApp/ReactL/ios/Pods/Headers/Private/SalesforceSDKCore/SFIdentityCoordinator.h \
+  /Users/AVI/Desktop/MobileApp/ReactL/mobile_sdk/SalesforceMobileSDK-iOS/libs/SmartStore/SmartStore/Classes/SFSmartStoreUtils.h \
+  /Users/AVI/Desktop/MobileApp/ReactL/mobile_sdk/SalesforceMobileSDK-iOS/libs/SmartStore/SmartStore/Classes/SFSmartStoreDatabaseManager+Internal.h \
+  /Users/AVI/Desktop/MobileApp/ReactL/ios/Pods/Headers/Private/SalesforceSDKCore/UIDevice+SFHardware.h \
+  /Users/AVI/Desktop/MobileApp/ReactL/ios/Pods/Headers/Private/SalesforceSDKCore/SFCrypto.h \
+  /Users/AVI/Desktop/MobileApp/ReactL/ios/Pods/Headers/Private/SalesforceSDKCore/NSString+SFAdditions.h \
+  /Users/AVI/Desktop/MobileApp/ReactL/ios/Pods/Headers/Private/SalesforceSDKCore/NSData+SFAdditions.h \
+  /Users/AVI/Desktop/MobileApp/ReactL/ios/Pods/Headers/Private/SalesforceSDKCore/SFPasscodeManager.h \
+  /Users/AVI/Desktop/MobileApp/ReactL/ios/Pods/Headers/Private/SalesforceAnalytics/NSUserDefaults+SFAdditions.h \
+  /Users/AVI/Desktop/MobileApp/ReactL/ios/Pods/FMDB/src/fmdb/FMDatabase.h \
+  /Users/AVI/Desktop/MobileApp/ReactL/ios/Pods/FMDB/src/fmdb/FMResultSet.h \
+  /Users/AVI/Desktop/MobileApp/ReactL/ios/Pods/FMDB/src/fmdb/FMDatabasePool.h
